@@ -16,7 +16,7 @@ Imagine you'd want to travel to a foreign nation, you'd require the currency use
 - you go to an 'exchange'. You give in money in the currency you currently have, the exchange hands over to you an equivalent amount of money in the currency you require
 - you go empty handed, and somehow work-up a job, and start earning in that currency - highly unlikely realisticly, but very likely on Ethereum.
 
-Easiest way ofcourse is to have some way to convert to the currency you require. "On-ramp" solutions provide this to you as a user. 
+Easiest way of course is to have some way to convert to the currency you require. "On-ramp" solutions provide this to you as a user. 
 Formally said, you hand in your fiat via your credit card (having completed relevant KYC), the system provides you with equivalent cryptocurrency you require.
 
 To integrate your DApp with fiat on ramp solution on Matic, you can choose to go with either the following or spin up with a custom solution:
